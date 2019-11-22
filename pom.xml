@@ -18,7 +18,7 @@
         <encoding>UTF-8</encoding>
         <tags></tags>
         <parallel.tests>4</parallel.tests>
-        <webdriver.base.url>https://google.com</webdriver.base.url>
+        <webdriver.base.url>default</webdriver.base.url>
     </properties>
 
     <repositories>
