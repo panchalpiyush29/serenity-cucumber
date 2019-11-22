@@ -44,4 +44,5 @@ public class SearchOnDuckDuckGoStepDefinitions {
         assertThat(searchResult.titles())
                 .allMatch(title -> textOf(title).containsIgnoringCase(expectedTerm));
     }
+
 }

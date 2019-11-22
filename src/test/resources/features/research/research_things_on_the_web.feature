@@ -1,4 +1,4 @@
-@driver:chrome
+@research
 Feature: Research things on the web
 
   Scenario: Researching a thing
